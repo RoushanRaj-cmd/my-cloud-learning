@@ -6,15 +6,8 @@
 
 | ✅ | Lab Title                             | Category | Link                                  |
 |----|----------------------------------------|----------|----------------------------------------|
-| ✔️ | Create and Manage VMs                 | Compute  | [vm-creation.md](./compute/vm-creation.md) |
-| ⬜ | Cloud Storage Basics                  | Storage  | [cloud-storage-basics.md](./storage/cloud-storage-basics.md) |                         |
-
----
-
-## 🔖 Template Used
-
-You can find the reusable lab notes template here:  
-📄 [`lab-note-template.md`](./templates/lab-note-template.md)
+| ✔️ | Analyze data with Gemini Assistance                | Data Analysis | [data-analysis.md](./AnalyzeDatawithGeminiAssistance.md) |
+| ✔️ | Gemini for Data Scientists                  | BigQuery ML  | [gemini-for-data-scietists.md](./GeminiForDataScientists.md) |                         |
 
 ---
 
@@ -33,7 +26,7 @@ You can find the reusable lab notes template here:
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/your-link)
+- 💼 LinkedIn: [Roushan Raj](http://www.linkedin.com/in/roushan-raj-cmd007)
 
 ---
 
